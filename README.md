@@ -1,6 +1,6 @@
 # Run Log
 
-(../public/demovue.png)
+<img src="public/demovue.png" width="400" />
 
 ## Usage
-A basic Vue application that tracks the number of miles run.
+A basic Vue application that tracks running distance (miles).
